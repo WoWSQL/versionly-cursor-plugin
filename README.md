@@ -1,24 +1,27 @@
 # Versionly for Cursor
 
-Official-style Cursor plugin for [Versionly](https://versionly.dev): monitor third-party HTTP API OpenAPI/changelog changes, detect which APIs a GitHub repo uses, explain breaking changes, and (on a paid plan) propose code fixes and open pull requests.
+Official Cursor plugin for [Versionly](https://versionly.dev) — self-maintaining APIs.
+
+Versionly watches third-party APIs in the GitHub repos you connect, maps breaking changes to files, and opens a pull request your team still reviews. Nothing merges itself.
+
+## What you get
+
+- MCP tools to list scanned repos, run scans, and open auto-fix PRs (paid plan)
+- A skill for monitoring vendor API changes from chat
+- Connection to `https://mcp.versionly.dev/mcp`
 
 ## Install
 
-1. Install this plugin from the Cursor Marketplace (or add the MCP URL manually).
-2. Complete Versionly auth when prompted.
-3. Connect the Versionly GitHub App for repo impact analysis and PRs.
+1. Install this plugin from the Cursor Marketplace, or clone this repo and add it as a local plugin.
+2. Authenticate the Versionly MCP connector when Cursor prompts you.
+3. Connect repos in [app.versionly.dev](https://app.versionly.dev).
 
-## MCP endpoint
+## Links
 
-`https://mcp.versionly.dev/mcp`
+- Product: https://versionly.dev
+- Docs / app: https://app.versionly.dev
+- MCP endpoint: https://mcp.versionly.dev/mcp
 
-## What you can do
+## License
 
-- List connected projects and monitored APIs
-- Scan for breaking API changes
-- Map changes to files in a connected repo
-- Generate fix patches and open PRs (paid plan)
-
-## Support
-
-See [versionly.dev](https://versionly.dev) or your Versionly workspace docs.
+MIT

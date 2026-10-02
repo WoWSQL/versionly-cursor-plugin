@@ -1,14 +1,23 @@
 {
   "name": "versionly",
+  "displayName": "Versionly",
   "version": "1.0.0",
-  "description": "Monitor third-party API breaking changes, map impact in your GitHub repos, and generate fix PRs with Versionly.",
+  "description": "Self-maintaining APIs: monitor third-party API changes in your GitHub repos, map breaking changes to files, and open reviewable auto-fix pull requests. Never merges by itself.",
   "author": {
-    "name": "Versionly"
+    "name": "WoWSQL Technologies",
+    "email": "hello@wowsql.com"
   },
   "homepage": "https://versionly.dev",
-  "repository": "https://github.com/PLACEHOLDER/versionly-cursor-plugin",
+  "repository": "https://github.com/WoWSQL/versionly-cursor-plugin",
   "license": "MIT",
-  "keywords": ["mcp", "api", "openapi", "breaking-changes", "versionly", "github"],
-  "logo": "assets/logo.svg",
-  "mcpServers": "mcp.json"
+  "keywords": [
+    "api",
+    "openapi",
+    "changelog",
+    "github",
+    "breaking-changes",
+    "mcp",
+    "versionly"
+  ],
+  "logo": "assets/logo.png"
 }
