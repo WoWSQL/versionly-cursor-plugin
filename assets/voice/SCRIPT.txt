@@ -1,0 +1,3 @@
+Voice: ta-IN-PallaviNeural (Microsoft Edge TTS)
+Script (Tamil):
+வணக்கம் டாக்டர். நான் WoWSQL-லிருந்து பேசுகிறேன். wowcare.pro மூலம் உங்கள் கிளினிக் queue, chart, lab, pharmacy மற்றும் billing ஒரே record-ஆ இருக்கும். நோயாளிகளுக்கு reports WhatsApp-ல் கிடைக்கும். Care Basic மாதம் இரண்டாயிரத்து தொள்ளாயிரத்து தொண்ணூற்று ஒன்பது ரூபாய் முதல். இந்த வாரம் பதினைந்து நிமிட டெமோ செய்யலாமா? நன்றி.
