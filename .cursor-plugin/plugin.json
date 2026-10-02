@@ -1,0 +1,14 @@
+{
+  "name": "versionly",
+  "version": "1.0.0",
+  "description": "Monitor third-party API breaking changes, map impact in your GitHub repos, and generate fix PRs with Versionly.",
+  "author": {
+    "name": "Versionly"
+  },
+  "homepage": "https://versionly.dev",
+  "repository": "https://github.com/PLACEHOLDER/versionly-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "api", "openapi", "breaking-changes", "versionly", "github"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json"
+}
